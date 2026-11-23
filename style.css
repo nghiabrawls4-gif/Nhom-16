@@ -35,6 +35,7 @@
 .btn:focus{
     color: #fff;
     box-shadow: none !important;
+    outline: none;
 }
 .memory-button {
     background-color: #3f4147;
