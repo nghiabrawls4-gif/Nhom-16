@@ -31,7 +31,8 @@
 }
 
 .btn:hover,
-.btn:active{
+.btn:active,
+.btn:focus{
     color: #fff;
     box-shadow: none !important;
 }
