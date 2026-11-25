@@ -1,0 +1,73 @@
+.flex{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-end;
+    height: 150px;        
+    padding-right: 12px;
+}
+.box1{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+.box2{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1;
+}
+.container{
+    background-color: #3f4147;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;  
+}
+.btn {
+    color: #fff;
+    border: none;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus{
+    color: #fff;
+    box-shadow: none !important;
+    outline: none;
+}
+.memory-button {
+    background-color: #3f4147;
+}
+.memory-button:hover{
+    background-color: #62656a;
+}
+.memory-button:active{
+    background-color: #505358;
+}
+
+.calculator-button {
+    background-color: #8a8d91;
+}
+.calculator-button:hover{
+    background-color: #62656a;}
+.calculator-button:active{
+    background-color: #505358;
+}
+.emphasized-button {
+    background-color: #62656a;
+}
+.emphasized-button:hover{
+    background-color: #777a80;}
+.emphasized-button:active{
+    background-color: #505358;
+}
+.equals-button {
+    background-color: #0078d4;
+}
+.equals-button:hover,
+.equals-button:active,
+.equals-button:focus {
+    background-color: #1084e3;
+}
